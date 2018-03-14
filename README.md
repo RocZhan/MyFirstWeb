@@ -1,2 +1,2 @@
-# MyFirstWeb
-My First Java Web Project Using Servlet and JSP
+# WebPractice
+A Java Web Project Used Servlet and JSP
